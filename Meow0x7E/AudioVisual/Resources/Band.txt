@@ -1,0 +1,9 @@
+[MeasureAudioLevelBand%u]
+Measure=Plugin
+UpdateDivider=#UpdateDivider#
+Plugin=AudioLevel
+Parent=MeasureAudioLevel
+Type=Band
+BandIdx=%u
+MinValue=#MinValue#
+MaxValue=#MaxValue#

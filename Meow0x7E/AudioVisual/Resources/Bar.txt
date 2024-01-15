@@ -1,0 +1,4 @@
+[MeterBar%s%u]
+Meter=Bar
+MeterStyle=StyleBar%s
+MeasureName=MeasureAudioLevelBand%u

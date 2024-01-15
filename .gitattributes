@@ -1,0 +1,5 @@
+*.ini text eol=crlf
+*.inc text eol=crlf
+*.txt text eol=crlf
+
+*.lua text=auto
