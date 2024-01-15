@@ -1,0 +1,5 @@
+[Variables]
+OldBands=%u
+Width=(#ScreenAreaWidth# * #WidthFactor#)
+Height=(#ScreenAreaWidth# * #HeightFactor#)
+X=(#Width# * #SpacingFactor#)
